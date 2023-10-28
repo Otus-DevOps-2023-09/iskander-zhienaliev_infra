@@ -36,3 +36,8 @@ ssh -i ~/.ssh/yc -J appuser@51.250.13.99 appuser@10.128.0.27
 bastion_IP = 51.250.13.99
 
 someinternalhost_IP = 10.128.0.27
+
+### Приложение ruby
+testapp_IP = 130.193.54.53
+
+testapp_port = 9292
