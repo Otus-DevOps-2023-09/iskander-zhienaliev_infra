@@ -4,7 +4,7 @@
       "type": "yandex",
       "service_account_key_file": "{{user `service_account_key_file`}}",
       "folder_id": "{{user `folder_id`}}",
-      "source_image_family": "{{user `source_image_id`}}",
+      "source_image_family": "{{user `source_image_family`}}",
       "subnet_id": "e2lfga8l1dad1i671ngv",
       "image_name": "reddit-base-{{timestamp}}",
       "image_family": "reddit-base",
