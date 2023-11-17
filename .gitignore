@@ -5,3 +5,8 @@ packer/variables.json
 *.tfvars
 .terraform/
 terraform/yandex_init.tf
+/terraform/.terraform.lock.hcl
+/.idea/iskander-zhienaliev_infra.iml
+/.idea/modules.xml
+/.idea/vcs.xml
+/.idea/workspace.xml
