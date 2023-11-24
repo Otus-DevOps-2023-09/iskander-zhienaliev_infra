@@ -53,3 +53,10 @@ testapp_port = 9292
 3. Внедрение модулей в Terraform;
 
 4. Настройка remote backend
+
+
+## HW 8. Знакомство с Ansible.
+
+1. Установка ansible
+2. Знакомство с inventory разных форматов
+3. Управление сервером через команды ansible
