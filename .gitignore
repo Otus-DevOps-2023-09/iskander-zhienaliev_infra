@@ -10,3 +10,4 @@ terraform/yandex_init.tf
 /.idea/modules.xml
 /.idea/vcs.xml
 /.idea/workspace.xml
+*.retry
